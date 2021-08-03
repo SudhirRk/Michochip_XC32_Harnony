@@ -1,0 +1,14 @@
+configName: default
+folderName: UART_Terminal_12_3_2021_v1
+format_version: v1.0
+frameworkPath: ..\..\..\..\Harmony3
+processor: ATSAME54P20A
+projectName: UART_Terminal_12_3_2021_v1
+settings:
+  PackageFilter: bootloader_apps_uart;bsp;classb_sam_e5x_d5x;core;core_apps_sam_d21_da1;core_apps_sam_d5x_e5x;crypto;csp;csp_apps_sam_d21_da1;csp_apps_sam_d5x_e5x;csp_apps_sam_e70_s70_v70_v71;net_apps_sam_e5x;quick_docs
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.7.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\SAME54_DFP\3.5.87\atdf\ATSAME54P20A.atdf

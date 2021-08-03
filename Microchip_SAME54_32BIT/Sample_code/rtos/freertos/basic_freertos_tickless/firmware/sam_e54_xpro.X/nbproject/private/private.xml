@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/SisaiTech/Projects/Omnipresence/Programs/SAME54_Xplained_pro/Sample_code/rtos/freertos/basic_freertos_tickless/firmware/src/app.c</file>
+            <file>file:/D:/SisaiTech/Projects/Omnipresence/Programs/SAME54_Xplained_pro/Sample_code/rtos/freertos/basic_freertos_tickless/firmware/src/config/sam_e54_xpro/peripheral/port/plib_port.h</file>
+            <file>file:/D:/SisaiTech/Projects/Omnipresence/Programs/SAME54_Xplained_pro/Sample_code/rtos/freertos/basic_freertos_tickless/firmware/src/main.c</file>
+            <file>file:/D:/SisaiTech/Projects/Omnipresence/Programs/SAME54_Xplained_pro/Sample_code/rtos/freertos/basic_freertos_tickless/firmware/src/config/sam_e54_xpro/peripheral/sercom/usart/plib_sercom2_usart.c</file>
+            <file>file:/D:/SisaiTech/Projects/Omnipresence/Programs/SAME54_Xplained_pro/Sample_code/rtos/freertos/basic_freertos_tickless/firmware/src/config/sam_e54_xpro/initialization.c</file>
+        </group>
+    </open-files>
+</project-private>

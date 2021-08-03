@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/atmel_start.c</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/examples/driver_examples.c</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/driver_init.c</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/led_switcher_main.c</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/hpl/core/hpl_core_m4.c</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/atmel_start.h</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/atmel_start_pins.h</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/config/hpl_cmcc_config.h</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/config/hpl_gclk_config.h</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/config/hpl_osc32kctrl_config.h</file>
+            <file>file:/C:/Users/abc/Desktop/SAME54_Xplained_pro/Sample_code/LED%20switcher.X/config/hpl_mclk_config.h</file>
+        </group>
+    </open-files>
+</project-private>
